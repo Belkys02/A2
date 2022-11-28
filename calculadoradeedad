@@ -10,7 +10,8 @@ int main() //representa el punto de inicio de su ejecución
 
 {
 	flotante x=0,s=0,c1=0,s5=0; //El float sirve como representacion de coma flotante de un numero
-				 //en este caso al programa se le agrega par de variables lo cual sirve para el programa que se igualan a 0 con la finalidad de que al momento de ejecutar el programa pueda dar el valor exacto
+				
+				//en este caso al programa se le agrega par de variables lo cual sirve para el programa que se igualan a 0 con la finalidad de que al momento de ejecutar el programa pueda dar el valor exacto
 	int s1=0,l,i1=0,i5=0;
 	cout<<"ingrese l: "; cin>>l;
 	hacer{  
